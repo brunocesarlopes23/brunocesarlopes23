@@ -7,6 +7,10 @@
 
 - 📫 email: **bruno.cesar.lopes.23@gmail.com / cel: +5541997294146**
 
+- 🚀 Portifólio/Projetos
+--<p> <a href=https://github.com/brunocesarlopes23/Projetcs-Machine-Learning-CIDAMO-UFPR/blob/main/README.md> Projetos de Machine Learning desenvolvidos no curso do CiDAMO da UFPR</a>
+--<p><a href=https://github.com/brunocesarlopes23/Tratamento-Analise-Supermercado-Kaggle> Projeto de Estudo - Tratamento e análise de Dados</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruno-cesar-lopes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-cesar-lopes/" height="30" width="40" /></a>
