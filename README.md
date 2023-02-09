@@ -7,10 +7,10 @@
 
 - 📫 email: **bruno.cesar.lopes.23@gmail.com / cel: +5541997294146**
 
-- 🚀 Portifólio/Projetos
---<p> <a href=https://github.com/brunocesarlopes23/WebScraping_WordCloud> Web Scraping and WordCloud com Python</a>
---<p> <a href=https://github.com/brunocesarlopes23/Projetcs-Machine-Learning-CIDAMO-UFPR/blob/main/README.md> Projetos de Machine Learning desenvolvidos no curso do CiDAMO da UFPR</a>
---<p><a href=https://github.com/brunocesarlopes23/Tratamento-Analise-Supermercado-Kaggle> Projeto de Estudo - Tratamento e análise de Dados</a>
+- 🚀 Portifólio/Projetos:
+- <p> <a href=https://github.com/brunocesarlopes23/WebScraping_WordCloud> Web Scraping and WordCloud com Python</a>
+- <p> <a href=https://github.com/brunocesarlopes23/Projetcs-Machine-Learning-CIDAMO-UFPR/blob/main/README.md> Projetos de Machine Learning desenvolvidos no curso do CiDAMO da UFPR</a>
+- <p><a href=https://github.com/brunocesarlopes23/Tratamento-Analise-Supermercado-Kaggle> Projeto de Estudo - Tratamento e análise de Dados</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
