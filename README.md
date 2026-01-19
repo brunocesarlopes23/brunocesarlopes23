@@ -1,16 +1,16 @@
-<h1 align="center">Oi 👋, me chamo Bruno</h1>
-<h3 align="center">seja bem-vindo, puxe uma cadeira e vem ver um pouquinho do que faço... 😁</h3>
+<h1 align="center">Hello 👋, I'm Bruno</h1>
+<h3 align="center"> You are welcome to access all projects</h3>
 
-- 👀 Tenho interesse em pesquisas e projetos na **área de Dados e Tecnologia em geral**.
-- 🌱 Atualmente estou estudando **Machine Learnning e Visualização dos Dados**.
-- 💬 Me pergunte sobre **Data Science and Data Analysis**
+- 👀 My interests include: **Data and Technology**.
+- 🌱 Currently, I've been studying **Machine learnning, statistic and  data visiualizaiton**.
+- 🧑‍💻 I work as Credit Policy Analyst
 
 - 📫 email: **bruno.cesar.lopes.23@gmail.com / cel: +5541997294146**
 
-- 🚀 Portifólio/Projetos:
+- 🚀 Portifólio/Projects:
 - <p> <a href=https://github.com/brunocesarlopes23/WebScraping_WordCloud> Web Scraping and WordCloud com Jupyter Notebook</a>
-- <p> <a href=https://github.com/brunocesarlopes23/Projetcs-Machine-Learning-CIDAMO-UFPR/blob/main/README.md> Projetos de Machine Learning desenvolvidos no curso do CiDAMO da UFPR</a>
-- <p><a href=https://github.com/brunocesarlopes23/Tratamento-Analise-Supermercado-Kaggle> Projeto de Estudo - Tratamento e análise de Dados</a>
+- <p> <a href=https://github.com/brunocesarlopes23/Projetcs-Machine-Learning-CIDAMO-UFPR/blob/main/README.md> Machine Learning Projects developed during course from CiDAMO UFPR</a>
+- <p><a href=https://github.com/brunocesarlopes23/Tratamento-Analise-Supermercado-Kaggle> Study Project - Data Analysis with Pyhton</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
