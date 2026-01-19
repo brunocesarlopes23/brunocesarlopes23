@@ -11,6 +11,7 @@
 - <p> <a href=https://github.com/brunocesarlopes23/WebScraping_WordCloud> Web Scraping and WordCloud com Jupyter Notebook</a>
 - <p> <a href=https://github.com/brunocesarlopes23/Projetcs-Machine-Learning-CIDAMO-UFPR/blob/main/README.md> Machine Learning Projects developed during course from CiDAMO UFPR</a>
 - <p><a href=https://github.com/brunocesarlopes23/Tratamento-Analise-Supermercado-Kaggle> Study Project - Data Analysis with Pyhton</a>
+- <p><a href=https://github.com/brunocesarlopes23/Logistic-Regression/blob/main/Logistic%20Regression%20Churn%20IBM.ipynb> Project Logistic Regression from zero - Churn Database </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
