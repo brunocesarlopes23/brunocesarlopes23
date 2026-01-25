@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, I'm Bruno</h1>
+<h1 align="center">Hello, I'm Bruno</h1>
 <h3 align="center"> You are welcome to access all projects</h3>
 
-- 👀 My interests include: **Data and Technology**.
-- 🌱 Currently, I've been studying **Machine learnning, statistic and  data visiualizaiton**.
-- 🧑‍💻 I work as Credit Policy Analyst
+- My interests include: **Data and Technology**.
+- Currently, I've been studying **Machine learnning, statistic and  data visiualizaiton**.
+- I work as Credit Policy Analyst
 
 - 📫 email: **bruno.cesar.lopes.23@gmail.com / cel: +5541997294146**
 
